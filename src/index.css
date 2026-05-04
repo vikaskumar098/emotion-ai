@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+body {
+  background: radial-gradient(circle at top, #e5d6cc, #efe9e5);
+  color: #e1d6bf;
+}
+
+.animated-bg {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #f0f9ff, #bae6fd, #c7d2fe);
+}
+
+.animated-bg::before,
+.animated-bg::after {
+  content: "";
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  filter: blur(100px);
+  opacity: 0.5;
+  animation: float 12s infinite ease-in-out alternate;
+}
+
+.animated-bg::before {
+  background: #60a5fa;
+  top: -100px;
+  left: -100px;
+}
+
+.animated-bg::after {
+  background: #a78bfa;
+  bottom: -100px;
+  right: -100px;
+  animation-delay: 4s;
+}
+
+@keyframes float {
+  0% {
+    transform: translate(0, 0) scale(1);
+  }
+  100% {
+    transform: translate(120px, 60px) scale(1.2);
+  }
+}
