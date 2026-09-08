@@ -39,23 +39,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-Experience the live application deployed directly in the browser:
-
-**🔗 [https://emotion-ai-one.vercel.app/](https://emotion-ai-one.vercel.app/)**
-
-> **Quick Start**: Open the link in Chrome, Edge, or Firefox, grant camera permission, and begin an interactive facial expression analysis session in seconds.
-
----
-
-## 💻 Source Code
-
-Access the full codebase, contribute, or star the repository:
-
-**🔗 [https://github.com/vikaskumar098/emotion-ai](https://github.com/vikaskumar098/emotion-ai)**
-
----
 
 ## 📸 Product Preview
 
@@ -467,7 +450,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Vikas Kumar**
 * GitHub: [@vikaskumar098](https://github.com/vikaskumar098)
-* Live Application: [https://emotion-ai-one.vercel.app/](https://emotion-ai-one.vercel.app/)
+
 
 <div align="center">
 
