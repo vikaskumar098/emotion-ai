@@ -59,17 +59,25 @@ Access the full codebase, contribute, or star the repository:
 
 ## 📸 Product Preview
 
-| **1. Marketing Landing Page** | **2. Live Analysis & Detection** |
-| :---: | :---: |
-| *High-conversion product showcase with interactive feature previews* | *Real-time camera feed with bounding boxes, confidence scoring & live graphs* |
-| ![Landing Page Preview](https://via.placeholder.com/640x360/0a0b10/6366f1?text=Emotion+AI+-+Landing+Page) | ![Live Analysis Preview](https://via.placeholder.com/640x360/0a0b10/6366f1?text=Emotion+AI+-+Live+Analysis) |
+### 🏠 Landing Page
+<p align="center">
+  <img src="./screenshots/landing-page.png" width="900" alt="Emotion AI Landing Page"/>
+</p>
 
-| **3. AI Analytics Dashboard** | **4. Session History & Reports** |
-| :---: | :---: |
-| *Comprehensive SaaS dashboard tracking session KPIs and expression distribution* | *Historical sessions, chronological logs, and exportable PDF analytical reports* |
-| ![Dashboard Preview](https://via.placeholder.com/640x360/0a0b10/6366f1?text=Emotion+AI+-+Dashboard) | ![Reports Preview](https://via.placeholder.com/640x360/0a0b10/6366f1?text=Emotion+AI+-+Reports+%26+PDF) |
+### 🎥 Live Analysis
+<p align="center">
+  <img src="./screenshots/live-analysis.png" width="900" alt="Emotion AI Live Analysis"/>
+</p>
 
-> *Tip: Replace preview placeholders with actual application captures using the paths `public/screenshots/`.*
+### 📊 AI Dashboard
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="900" alt="Emotion AI Dashboard"/>
+</p>
+
+### 📚 Session History
+<p align="center">
+  <img src="./screenshots/history.png" width="900" alt="Emotion AI Session History"/>
+</p>
 
 ---
 
